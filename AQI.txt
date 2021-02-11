@@ -1,0 +1,5 @@
+Air Quality Index (AQI)
+Steps----
+
+1. Data Collection from multiple sources
+2. Preprocess Data(Feature Engineering)
